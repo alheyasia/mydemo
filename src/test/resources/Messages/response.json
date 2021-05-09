@@ -1,0 +1,17 @@
+[
+  {
+    "content": "abrakadabra",
+    "timestamp": "2018-10-08 23:12:12+0000",
+    "longest_palindrome_size": 3
+  },
+  {
+    "content": "a",
+    "timestamp": "2019-10-08 23:12:12+0000",
+    "longest_palindrome_size": 1
+  },
+  {
+    "content": "abb",
+    "timestamp": "2020-10-08 23:12:12+0000",
+    "longest_palindrome_size": 2
+  }
+]
